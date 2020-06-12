@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 public class Sample {
-  public static void main(String[] args) {
+  public static void test(String[] args) {
     ArrayList<String> arr = new ArrayList<>();
     arr.add("Sample");
     Iterator<String> it = arr.iterator();
